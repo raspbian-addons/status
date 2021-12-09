@@ -54,7 +54,7 @@ sites:
   - name: Dotsrc Mirror (mirrors.dotsrc.org)
     url: http://mirrors.dotsrc.org
   - name: Onet Mirror (ftp.onet.pl)
-    http://ftp.onet.pl
+    url: http://ftp.onet.pl
   - name: LiquidTelecom Mirror (mirror.liquidtelecom.com)
     url: http://mirror.liquidtelecom.com
 
