@@ -5,12 +5,58 @@ repo: status # The name of this repository
 sites:
   - name: Main Site
     url: https://raspbian-addons.org
+  - name: Docs
+    url: https://docs.raspbian-addons.org
   - name: Main Mirror (apt.raspbian-addons.org)
     url: https://apt.raspbian-addons.org
   - name: SourceForge Mirror (master.dl.sourceforge.net)
     url: https://master.dl.sourceforge.net
-  - name: Docs
-    url: https://docs.raspbian-addons.org
+  - name: OSDN Storage Mirror (storage.osdn.net)
+    url: http://storage.osdn.net
+  - name: OSDN Mirror (osdn.dl.osdn.net)
+    url: https://osdn.dl.osdn.net
+  - name: xTom US Mirror
+    url: https://mirrors.xtom.com
+  - name: GigeNET Mirror (mirrors.gigenet.com)
+    url: https://mirrors.gigenet.com
+  - name: Constant Mirror (osdn.mirror.constant.com)
+    url: https://osdn.mirror.constant.com
+  - name: Purdue Mirror (plug-mirror.rcac.purdue.edu)
+    url: https://plug-mirror.rcac.purdue.edu
+  - name: Princeton Mirror (mirror.math.princeton.edu)
+    url: https://mirror.math.princeton.edu
+  - name: Tsinghua Mirror (mirrors.tuna.tsinghua.edu.cn)
+    url: https://mirrors.tuna.tsinghua.edu.cn
+  - name: BFSU Mirror(mirrors.bfsu.edu.cn)
+    url: https://mirrors.bfsu.edu.cn
+  - name: ISCAS Mirror (mirror.iscas.ac.cn)
+    url: https://mirror.iscas.ac.cn
+  - name: SJTU Mirror (mirror.sjtu.edu.cn)
+    url: https://mirror.sjtu.edu.cn
+  - name: NJU Mirror (mirrors.nju.edu.cn)
+    url: https://mirrors.nju.edu.cn
+  - name: USTC Mirror (mirrors.ustc.edu.cn)
+    url: https://mirrors.ustc.edu.cn
+  - name: xTom CN Mirror (mirror.xtom.com.hk)
+    url: https://mirror.xtom.com.hk
+  - name: NCHC Mirror (free.nchc.org.tw)
+    url: https://free.nchc.org.tw
+  - name: IIJ Mirror (ftp.iij.ad.jp)
+    url: https://ftp.iij.ad.jp
+  - name: JAIST Mirror (ftp.jaist.ac.jp)
+    url: https://ftp.jaist.ac.jp
+  - name: YMU Mirror (ymu.dl.osdn.jp)
+    url: https://ymu.dl.osdn.jp
+  - name: UME Mirror (ftp.acc.umu.se)
+    url: https://ftp.acc.umu.se
+  - name: RWTH Aachen Mirror (ftp.halifax.rwth-aachen.de)
+    url: http://ftp.halifax.rwth-aachen.de
+  - name: Dotsrc Mirror (mirrors.dotsrc.org)
+    url: http://mirrors.dotsrc.org
+  - name: Onet Mirror (ftp.onet.pl)
+    http://ftp.onet.pl
+  - name: LiquidTelecom Mirror (mirror.liquidtelecom.com)
+    url: http://mirror.liquidtelecom.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,4 +66,4 @@ status-website:
   logoUrl: https://cdn.jsdelivr.net/gh/raspbian-addons/raspbian-addons@master/icons/logo-condensed-test.png
   name: Raspbian Addons
   introTitle: "**Raspbian Addons** is a legendary APT repository for Raspberry Pies containing free and open source ARM-compatible software."
-  introMessage: Welcome to the Raspbian Addons status site. Check on the uptime of our servers here. 
+  introMessage: Welcome to the Raspbian Addons status site. Check on the uptime of our mirrors and servers here. 
