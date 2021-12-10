@@ -294,19 +294,19 @@
     "url": "https://mirrors.ustc.edu.cn",
     "icon": "https://favicons.githubusercontent.com/mirrors.ustc.edu.cn",
     "slug": "ustc-mirror-mirrors-ustc-edu-cn",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2543,
-    "timeDay": 2076,
-    "timeWeek": 2543,
-    "timeMonth": 2543,
-    "timeYear": 2543,
+    "status": "up",
+    "uptime": "99.29%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
+    "time": 2302,
+    "timeDay": 1911,
+    "timeWeek": 2302,
+    "timeMonth": 2302,
+    "timeYear": 2302,
     "dailyMinutesDown": {
-      "2021-12-10": 0
+      "2021-12-10": 20
     }
   },
   {
