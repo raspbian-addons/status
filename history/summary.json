@@ -96,18 +96,19 @@
     "url": "https://osdn.dl.osdn.net",
     "icon": "https://favicons.githubusercontent.com/osdn.dl.osdn.net",
     "slug": "osdn-mirror-osdn-dl-osdn-net",
-    "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
+    "status": "down",
+    "uptime": "99.42%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
     "time": 288,
     "timeDay": 203,
     "timeWeek": 288,
     "timeMonth": 288,
     "timeYear": 288,
     "dailyMinutesDown": {
+      "2021-12-15": 1,
       "2021-12-11": 47,
       "2021-12-10": 8
     }
@@ -389,9 +390,9 @@
     "url": "https://ymu.dl.osdn.jp",
     "icon": "https://favicons.githubusercontent.com/ymu.dl.osdn.jp",
     "slug": "ymu-mirror-ymu-dl-osdn-jp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -400,7 +401,9 @@
     "timeWeek": 1623,
     "timeMonth": 1623,
     "timeYear": 1623,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 0
+    }
   },
   {
     "name": "UME Mirror (ftp.acc.umu.se)",
