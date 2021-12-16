@@ -40,19 +40,19 @@
     "url": "https://apt.raspbian-addons.org",
     "icon": "https://favicons.githubusercontent.com/apt.raspbian-addons.org",
     "slug": "main-mirror-apt-raspbian-addons-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 236,
-    "timeWeek": 191,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 219,
+    "timeDay": 295,
+    "timeWeek": 219,
+    "timeMonth": 219,
+    "timeYear": 219,
     "dailyMinutesDown": {
-      "2021-12-16": 1
+      "2021-12-16": 7
     }
   },
   {
