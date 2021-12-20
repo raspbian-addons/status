@@ -374,10 +374,10 @@
     "url": "https://ftp.jaist.ac.jp",
     "icon": "https://favicons.githubusercontent.com/ftp.jaist.ac.jp",
     "slug": "jaist-mirror-ftp-jaist-ac-jp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 935,
@@ -385,7 +385,9 @@
     "timeWeek": 883,
     "timeMonth": 935,
     "timeYear": 935,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-20": 1
+    }
   },
   {
     "name": "YMU Mirror (ymu.dl.osdn.jp)",
@@ -431,13 +433,13 @@
     "icon": "https://favicons.githubusercontent.com/ftp.halifax.rwth-aachen.de",
     "slug": "rwth-aachen-mirror-ftp-halifax-rwth-aachen-de",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.30%",
     "uptimeDay": "98.86%",
     "uptimeWeek": "98.81%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.29%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.30%",
     "time": 1372,
-    "timeDay": 3742,
+    "timeDay": 1189,
     "timeWeek": 1583,
     "timeMonth": 1372,
     "timeYear": 1372,
