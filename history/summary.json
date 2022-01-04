@@ -99,11 +99,11 @@
     "icon": "https://favicons.githubusercontent.com/osdn.dl.osdn.net",
     "slug": "osdn-mirror-osdn-dl-osdn-net",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "98.26%",
     "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
     "time": 421,
     "timeDay": 361,
     "timeWeek": 275,
@@ -123,9 +123,9 @@
     "url": "https://mirrors.xtom.com",
     "icon": "https://favicons.githubusercontent.com/mirrors.xtom.com",
     "slug": "x-tom-us-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -134,7 +134,9 @@
     "timeWeek": 186,
     "timeMonth": 274,
     "timeYear": 274,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-04": 1
+    }
   },
   {
     "name": "GigeNET Mirror (mirrors.gigenet.com)",
