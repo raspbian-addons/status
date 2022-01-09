@@ -31,7 +31,7 @@
     "time": 155,
     "timeDay": 127,
     "timeWeek": 149,
-    "timeMonth": 148,
+    "timeMonth": 152,
     "timeYear": 155,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 217,
     "timeDay": 191,
     "timeWeek": 196,
-    "timeMonth": 218,
+    "timeMonth": 217,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2022-01-03": 174
@@ -69,7 +69,7 @@
     "time": 269,
     "timeDay": 142,
     "timeWeek": 195,
-    "timeMonth": 267,
+    "timeMonth": 248,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2021-12-08": 2
@@ -89,7 +89,7 @@
     "time": 178,
     "timeDay": 132,
     "timeWeek": 133,
-    "timeMonth": 178,
+    "timeMonth": 176,
     "timeYear": 178,
     "dailyMinutesDown": {}
   },
@@ -107,7 +107,7 @@
     "time": 369,
     "timeDay": 178,
     "timeWeek": 277,
-    "timeMonth": 369,
+    "timeMonth": 368,
     "timeYear": 369,
     "dailyMinutesDown": {
       "2022-01-06": 16,
@@ -134,7 +134,7 @@
     "time": 278,
     "timeDay": 296,
     "timeWeek": 259,
-    "timeMonth": 278,
+    "timeMonth": 273,
     "timeYear": 278,
     "dailyMinutesDown": {}
   },
@@ -152,7 +152,7 @@
     "time": 378,
     "timeDay": 491,
     "timeWeek": 428,
-    "timeMonth": 378,
+    "timeMonth": 382,
     "timeYear": 378,
     "dailyMinutesDown": {}
   },
@@ -170,7 +170,7 @@
     "time": 298,
     "timeDay": 455,
     "timeWeek": 383,
-    "timeMonth": 298,
+    "timeMonth": 304,
     "timeYear": 298,
     "dailyMinutesDown": {}
   },
@@ -180,15 +180,15 @@
     "icon": "https://favicons.githubusercontent.com/plug-mirror.rcac.purdue.edu",
     "slug": "purdue-mirror-plug-mirror-rcac-purdue-edu",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "98.29%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 265,
     "timeDay": 270,
     "timeWeek": 286,
-    "timeMonth": 265,
+    "timeMonth": 269,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2022-01-08": 25
@@ -208,7 +208,7 @@
     "time": 455,
     "timeDay": 531,
     "timeWeek": 545,
-    "timeMonth": 455,
+    "timeMonth": 467,
     "timeYear": 455,
     "dailyMinutesDown": {}
   },
@@ -226,7 +226,7 @@
     "time": 1859,
     "timeDay": 1058,
     "timeWeek": 1711,
-    "timeMonth": 1859,
+    "timeMonth": 1843,
     "timeYear": 1859,
     "dailyMinutesDown": {}
   },
@@ -244,7 +244,7 @@
     "time": 1537,
     "timeDay": 1358,
     "timeWeek": 1425,
-    "timeMonth": 1537,
+    "timeMonth": 1523,
     "timeYear": 1537,
     "dailyMinutesDown": {}
   },
@@ -262,7 +262,7 @@
     "time": 1664,
     "timeDay": 1676,
     "timeWeek": 1646,
-    "timeMonth": 1664,
+    "timeMonth": 1663,
     "timeYear": 1664,
     "dailyMinutesDown": {
       "2021-12-18": 22
@@ -282,7 +282,7 @@
     "time": 1403,
     "timeDay": 1324,
     "timeWeek": 1402,
-    "timeMonth": 1403,
+    "timeMonth": 1390,
     "timeYear": 1403,
     "dailyMinutesDown": {}
   },
@@ -292,19 +292,17 @@
     "icon": "https://favicons.githubusercontent.com/mirrors.nju.edu.cn",
     "slug": "nju-mirror-mirrors-nju-edu-cn",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1432,
     "timeDay": 1547,
     "timeWeek": 1506,
-    "timeMonth": 1432,
+    "timeMonth": 1417,
     "timeYear": 1432,
-    "dailyMinutesDown": {
-      "2022-01-08": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "USTC Mirror (mirrors.ustc.edu.cn)",
@@ -320,7 +318,7 @@
     "time": 2376,
     "timeDay": 2253,
     "timeWeek": 2619,
-    "timeMonth": 2376,
+    "timeMonth": 2345,
     "timeYear": 2376,
     "dailyMinutesDown": {
       "2022-01-04": 35,
@@ -341,7 +339,7 @@
     "time": 874,
     "timeDay": 761,
     "timeWeek": 794,
-    "timeMonth": 874,
+    "timeMonth": 871,
     "timeYear": 874,
     "dailyMinutesDown": {}
   },
@@ -359,7 +357,7 @@
     "time": 926,
     "timeDay": 693,
     "timeWeek": 837,
-    "timeMonth": 926,
+    "timeMonth": 928,
     "timeYear": 926,
     "dailyMinutesDown": {}
   },
@@ -377,7 +375,7 @@
     "time": 937,
     "timeDay": 545,
     "timeWeek": 1029,
-    "timeMonth": 937,
+    "timeMonth": 935,
     "timeYear": 937,
     "dailyMinutesDown": {}
   },
@@ -395,7 +393,7 @@
     "time": 966,
     "timeDay": 706,
     "timeWeek": 718,
-    "timeMonth": 966,
+    "timeMonth": 969,
     "timeYear": 966,
     "dailyMinutesDown": {}
   },
@@ -413,7 +411,7 @@
     "time": 1623,
     "timeDay": 1209,
     "timeWeek": 1373,
-    "timeMonth": 1623,
+    "timeMonth": 1619,
     "timeYear": 1623,
     "dailyMinutesDown": {
       "2021-12-24": 22,
@@ -434,7 +432,7 @@
     "time": 683,
     "timeDay": 757,
     "timeWeek": 694,
-    "timeMonth": 683,
+    "timeMonth": 690,
     "timeYear": 683,
     "dailyMinutesDown": {}
   },
@@ -452,7 +450,7 @@
     "time": 1870,
     "timeDay": 972,
     "timeWeek": 1119,
-    "timeMonth": 1870,
+    "timeMonth": 1897,
     "timeYear": 1870,
     "dailyMinutesDown": {
       "2021-12-31": 23,
@@ -479,7 +477,7 @@
     "time": 825,
     "timeDay": 865,
     "timeWeek": 834,
-    "timeMonth": 825,
+    "timeMonth": 827,
     "timeYear": 825,
     "dailyMinutesDown": {}
   },
@@ -497,7 +495,7 @@
     "time": 541,
     "timeDay": 454,
     "timeWeek": 513,
-    "timeMonth": 541,
+    "timeMonth": 544,
     "timeYear": 541,
     "dailyMinutesDown": {}
   },
@@ -515,7 +513,7 @@
     "time": 842,
     "timeDay": 1195,
     "timeWeek": 914,
-    "timeMonth": 842,
+    "timeMonth": 849,
     "timeYear": 842,
     "dailyMinutesDown": {}
   }
