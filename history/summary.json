@@ -166,19 +166,19 @@
     "url": "https://osdn.mirror.constant.com",
     "icon": "https://favicons.githubusercontent.com/osdn.mirror.constant.com",
     "slug": "constant-mirror-osdn-mirror-constant-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 152,
-    "timeWeek": 224,
-    "timeMonth": 291,
-    "timeYear": 283,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 277,
+    "timeDay": 117,
+    "timeWeek": 204,
+    "timeMonth": 284,
+    "timeYear": 277,
     "dailyMinutesDown": {
-      "2022-01-20": 0
+      "2022-01-20": 6
     }
   },
   {
