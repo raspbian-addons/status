@@ -100,18 +100,18 @@
     "icon": "https://favicons.githubusercontent.com/osdn.dl.osdn.net",
     "slug": "osdn-mirror-osdn-dl-osdn-net",
     "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.36%",
+    "uptime": "99.37%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.37%",
     "time": 435,
     "timeDay": 1050,
     "timeWeek": 648,
     "timeMonth": 465,
     "timeYear": 435,
     "dailyMinutesDown": {
-      "2022-01-20": 23,
+      "2022-01-20": 16,
       "2022-01-16": 38,
       "2022-01-15": 16,
       "2022-01-09": 84,
@@ -166,9 +166,9 @@
     "url": "https://osdn.mirror.constant.com",
     "icon": "https://favicons.githubusercontent.com/osdn.mirror.constant.com",
     "slug": "constant-mirror-osdn-mirror-constant-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -177,7 +177,9 @@
     "timeWeek": 224,
     "timeMonth": 291,
     "timeYear": 283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-20": 0
+    }
   },
   {
     "name": "Purdue Mirror (plug-mirror.rcac.purdue.edu)",
