@@ -204,9 +204,9 @@
     "url": "https://mirror.math.princeton.edu",
     "icon": "https://favicons.githubusercontent.com/mirror.math.princeton.edu",
     "slug": "princeton-mirror-mirror-math-princeton-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -215,7 +215,9 @@
     "timeWeek": 476,
     "timeMonth": 443,
     "timeYear": 446,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-21": 0
+    }
   },
   {
     "name": "Tsinghua Mirror (mirrors.tuna.tsinghua.edu.cn)",
