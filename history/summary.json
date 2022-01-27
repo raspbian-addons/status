@@ -418,7 +418,7 @@
     "slug": "ymu-mirror-ymu-dl-osdn-jp",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "66.70%",
+    "uptimeDay": "67.81%",
     "uptimeWeek": "94.95%",
     "uptimeMonth": "98.84%",
     "uptimeYear": "99.22%",
@@ -438,19 +438,19 @@
     "url": "https://ftp.acc.umu.se",
     "icon": "https://favicons.githubusercontent.com/ftp.acc.umu.se",
     "slug": "ume-mirror-ftp-acc-umu-se",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 669,
-    "timeDay": 739,
-    "timeWeek": 620,
-    "timeMonth": 656,
+    "timeDay": 700,
+    "timeWeek": 625,
+    "timeMonth": 657,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2022-01-27": 0
+      "2022-01-27": 16
     }
   },
   {
