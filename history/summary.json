@@ -179,10 +179,10 @@
     "url": "https://osdn.mirror.constant.com",
     "icon": "https://favicons.githubusercontent.com/osdn.mirror.constant.com",
     "slug": "constant-mirror-osdn-mirror-constant-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 280,
@@ -190,7 +190,9 @@
     "timeWeek": 223,
     "timeMonth": 268,
     "timeYear": 280,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-08": 1
+    }
   },
   {
     "name": "Purdue Mirror (plug-mirror.rcac.purdue.edu)",
