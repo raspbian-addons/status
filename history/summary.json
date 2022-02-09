@@ -312,18 +312,17 @@
     "icon": "https://favicons.githubusercontent.com/mirrors.nju.edu.cn",
     "slug": "nju-mirror-mirrors-nju-edu-cn",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.89%",
     "time": 1528,
-    "timeDay": 1509,
+    "timeDay": 1540,
     "timeWeek": 1709,
     "timeMonth": 1590,
     "timeYear": 1528,
     "dailyMinutesDown": {
-      "2022-02-09": 7,
       "2022-01-18": 27,
       "2022-01-10": 75
     }
@@ -333,10 +332,10 @@
     "url": "https://mirrors.ustc.edu.cn",
     "icon": "https://favicons.githubusercontent.com/mirrors.ustc.edu.cn",
     "slug": "ustc-mirror-mirrors-ustc-edu-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
     "time": 2322,
@@ -345,6 +344,7 @@
     "timeMonth": 2267,
     "timeYear": 2322,
     "dailyMinutesDown": {
+      "2022-02-09": 1,
       "2022-01-15": 17,
       "2022-01-04": 35,
       "2021-12-10": 20
@@ -502,18 +502,18 @@
     "icon": "https://favicons.githubusercontent.com/mirrors.dotsrc.org",
     "slug": "dotsrc-mirror-mirrors-dotsrc-org",
     "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "88.62%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.77%",
+    "uptimeDay": "85.67%",
+    "uptimeWeek": "97.95%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.77%",
     "time": 806,
     "timeDay": 1094,
     "timeWeek": 875,
     "timeMonth": 787,
     "timeYear": 806,
     "dailyMinutesDown": {
-      "2022-02-09": 164
+      "2022-02-09": 206
     }
   },
   {
