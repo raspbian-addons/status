@@ -13,7 +13,7 @@
     "time": 210,
     "timeDay": 41,
     "timeWeek": 179,
-    "timeMonth": 211,
+    "timeMonth": 209,
     "timeYear": 210,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 153,
     "timeDay": 160,
     "timeWeek": 169,
-    "timeMonth": 149,
+    "timeMonth": 150,
     "timeYear": 153,
     "dailyMinutesDown": {}
   },
@@ -43,13 +43,13 @@
     "status": "up",
     "uptime": "96.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.22%",
+    "uptimeWeek": "92.35%",
     "uptimeMonth": "93.95%",
     "uptimeYear": "96.94%",
     "time": 409,
     "timeDay": 86,
     "timeWeek": 199,
-    "timeMonth": 588,
+    "timeMonth": 598,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2022-02-04": 740,
@@ -73,7 +73,7 @@
     "time": 375,
     "timeDay": 515,
     "timeWeek": 313,
-    "timeMonth": 481,
+    "timeMonth": 489,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2021-12-08": 2
@@ -93,7 +93,7 @@
     "time": 160,
     "timeDay": 202,
     "timeWeek": 153,
-    "timeMonth": 141,
+    "timeMonth": 143,
     "timeYear": 160,
     "dailyMinutesDown": {}
   },
@@ -111,7 +111,7 @@
     "time": 446,
     "timeDay": 296,
     "timeWeek": 826,
-    "timeMonth": 494,
+    "timeMonth": 497,
     "timeYear": 446,
     "dailyMinutesDown": {
       "2022-02-10": 24,
@@ -153,7 +153,7 @@
     "time": 259,
     "timeDay": 336,
     "timeWeek": 265,
-    "timeMonth": 236,
+    "timeMonth": 242,
     "timeYear": 259,
     "dailyMinutesDown": {}
   },
@@ -189,7 +189,7 @@
     "time": 275,
     "timeDay": 195,
     "timeWeek": 230,
-    "timeMonth": 260,
+    "timeMonth": 258,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2022-02-08": 108
@@ -229,7 +229,7 @@
     "time": 416,
     "timeDay": 106,
     "timeWeek": 343,
-    "timeMonth": 390,
+    "timeMonth": 385,
     "timeYear": 416,
     "dailyMinutesDown": {}
   },
@@ -247,7 +247,7 @@
     "time": 2009,
     "timeDay": 3665,
     "timeWeek": 2215,
-    "timeMonth": 2143,
+    "timeMonth": 2157,
     "timeYear": 2009,
     "dailyMinutesDown": {}
   },
@@ -265,7 +265,7 @@
     "time": 1583,
     "timeDay": 2065,
     "timeWeek": 1661,
-    "timeMonth": 1623,
+    "timeMonth": 1630,
     "timeYear": 1583,
     "dailyMinutesDown": {}
   },
@@ -283,7 +283,7 @@
     "time": 1674,
     "timeDay": 2069,
     "timeWeek": 1803,
-    "timeMonth": 1684,
+    "timeMonth": 1689,
     "timeYear": 1674,
     "dailyMinutesDown": {
       "2021-12-18": 22
@@ -303,7 +303,7 @@
     "time": 1415,
     "timeDay": 1966,
     "timeWeek": 1575,
-    "timeMonth": 1419,
+    "timeMonth": 1439,
     "timeYear": 1415,
     "dailyMinutesDown": {}
   },
@@ -312,19 +312,19 @@
     "url": "https://mirrors.nju.edu.cn",
     "icon": "https://favicons.githubusercontent.com/mirrors.nju.edu.cn",
     "slug": "nju-mirror-mirrors-nju-edu-cn",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.89%",
-    "time": 1538,
-    "timeDay": 1930,
-    "timeWeek": 1643,
-    "timeMonth": 1604,
-    "timeYear": 1538,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.87%",
+    "time": 1534,
+    "timeDay": 1692,
+    "timeWeek": 1621,
+    "timeMonth": 1607,
+    "timeYear": 1534,
     "dailyMinutesDown": {
-      "2022-02-10": 0,
+      "2022-02-10": 14,
       "2022-01-18": 27,
       "2022-01-10": 75
     }
@@ -343,7 +343,7 @@
     "time": 2328,
     "timeDay": 2338,
     "timeWeek": 2458,
-    "timeMonth": 2259,
+    "timeMonth": 2261,
     "timeYear": 2328,
     "dailyMinutesDown": {
       "2022-01-15": 17,
@@ -365,7 +365,7 @@
     "time": 900,
     "timeDay": 1001,
     "timeWeek": 910,
-    "timeMonth": 924,
+    "timeMonth": 929,
     "timeYear": 900,
     "dailyMinutesDown": {
       "2022-02-07": 58,
@@ -387,7 +387,7 @@
     "time": 920,
     "timeDay": 997,
     "timeWeek": 940,
-    "timeMonth": 912,
+    "timeMonth": 918,
     "timeYear": 920,
     "dailyMinutesDown": {}
   },
@@ -405,7 +405,7 @@
     "time": 952,
     "timeDay": 1043,
     "timeWeek": 955,
-    "timeMonth": 968,
+    "timeMonth": 982,
     "timeYear": 952,
     "dailyMinutesDown": {}
   },
@@ -423,7 +423,7 @@
     "time": 884,
     "timeDay": 1209,
     "timeWeek": 910,
-    "timeMonth": 804,
+    "timeMonth": 810,
     "timeYear": 884,
     "dailyMinutesDown": {}
   },
@@ -441,7 +441,7 @@
     "time": 1564,
     "timeDay": 1941,
     "timeWeek": 1572,
-    "timeMonth": 1496,
+    "timeMonth": 1501,
     "timeYear": 1564,
     "dailyMinutesDown": {
       "2022-01-26": 509,
@@ -463,7 +463,7 @@
     "time": 675,
     "timeDay": 786,
     "timeWeek": 732,
-    "timeMonth": 672,
+    "timeMonth": 662,
     "timeYear": 675,
     "dailyMinutesDown": {
       "2022-01-27": 16
@@ -483,7 +483,7 @@
     "time": 1503,
     "timeDay": 657,
     "timeWeek": 825,
-    "timeMonth": 967,
+    "timeMonth": 966,
     "timeYear": 1503,
     "dailyMinutesDown": {
       "2022-01-14": 52,
@@ -504,14 +504,14 @@
     "slug": "dotsrc-mirror-mirrors-dotsrc-org",
     "status": "up",
     "uptime": "98.71%",
-    "uptimeDay": "38.55%",
+    "uptimeDay": "39.48%",
     "uptimeWeek": "88.18%",
     "uptimeMonth": "97.28%",
     "uptimeYear": "98.71%",
     "time": 802,
     "timeDay": 675,
     "timeWeek": 834,
-    "timeMonth": 786,
+    "timeMonth": 779,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2022-02-10": 841,
@@ -532,7 +532,7 @@
     "time": 490,
     "timeDay": 300,
     "timeWeek": 400,
-    "timeMonth": 443,
+    "timeMonth": 445,
     "timeYear": 490,
     "dailyMinutesDown": {}
   },
@@ -550,7 +550,7 @@
     "time": 839,
     "timeDay": 639,
     "timeWeek": 844,
-    "timeMonth": 844,
+    "timeMonth": 845,
     "timeYear": 839,
     "dailyMinutesDown": {}
   }
