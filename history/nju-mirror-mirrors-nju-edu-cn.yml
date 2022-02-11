@@ -1,7 +1,7 @@
 url: https://mirrors.nju.edu.cn
-status: up
-code: 200
-responseTime: 295
-lastUpdated: 2022-02-11T21:10:29.674Z
+status: down
+code: 502
+responseTime: 1718
+lastUpdated: 2022-02-11T21:50:13.599Z
 startTime: Thu Dec 09 2021 00:11:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
