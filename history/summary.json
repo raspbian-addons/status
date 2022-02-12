@@ -239,19 +239,19 @@
     "url": "https://mirrors.tuna.tsinghua.edu.cn",
     "icon": "https://favicons.githubusercontent.com/mirrors.tuna.tsinghua.edu.cn",
     "slug": "tsinghua-mirror-mirrors-tuna-tsinghua-edu-cn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2016,
-    "timeDay": 2459,
-    "timeWeek": 2218,
-    "timeMonth": 2179,
-    "timeYear": 2016,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 2023,
+    "timeDay": 2499,
+    "timeWeek": 2253,
+    "timeMonth": 2190,
+    "timeYear": 2023,
     "dailyMinutesDown": {
-      "2022-02-12": 0
+      "2022-02-12": 8
     }
   },
   {
