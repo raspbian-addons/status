@@ -232,7 +232,7 @@
     "time": 422,
     "timeDay": 609,
     "timeWeek": 462,
-    "timeMonth": 393,
+    "timeMonth": 402,
     "timeYear": 422,
     "dailyMinutesDown": {}
   },
@@ -259,9 +259,9 @@
     "url": "https://mirrors.bfsu.edu.cn",
     "icon": "https://favicons.githubusercontent.com/mirrors.bfsu.edu.cn",
     "slug": "bfsu-mirror-mirrors-bfsu-edu-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -270,7 +270,9 @@
     "timeWeek": 1735,
     "timeMonth": 1673,
     "timeYear": 1595,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-21": 0
+    }
   },
   {
     "name": "ISCAS Mirror (mirror.iscas.ac.cn)",
@@ -299,12 +301,12 @@
     "slug": "sjtu-mirror-mirror-sjtu-edu-cn",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "95.64%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.93%",
     "time": 1442,
-    "timeDay": 1542,
+    "timeDay": 1499,
     "timeWeek": 1620,
     "timeMonth": 1522,
     "timeYear": 1442,
