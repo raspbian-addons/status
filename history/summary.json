@@ -148,19 +148,19 @@
     "url": "https://mirrors.xtom.com",
     "icon": "https://favicons.githubusercontent.com/mirrors.xtom.com",
     "slug": "x-tom-us-mirror",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 261,
-    "timeDay": 128,
-    "timeWeek": 189,
-    "timeMonth": 255,
-    "timeYear": 261,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 258,
+    "timeDay": 84,
+    "timeWeek": 170,
+    "timeMonth": 248,
+    "timeYear": 258,
     "dailyMinutesDown": {
-      "2022-02-26": 0
+      "2022-02-26": 7
     }
   },
   {
