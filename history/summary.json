@@ -139,11 +139,11 @@
     "url": "https://osdn.dl.osdn.net",
     "icon": "https://favicons.githubusercontent.com/osdn.dl.osdn.net",
     "slug": "osdn-mirror-osdn-dl-osdn-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.28%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "99.27%",
     "time": 498,
     "timeDay": 508,
@@ -151,7 +151,7 @@
     "timeMonth": 316,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2022-05-15": 6,
+      "2022-05-15": 1,
       "2022-05-13": 65,
       "2022-05-04": 85,
       "2022-05-01": 16,
@@ -299,7 +299,7 @@
     "uptimeYear": "99.97%",
     "time": 2245,
     "timeDay": 2744,
-    "timeWeek": 2434,
+    "timeWeek": 2427,
     "timeMonth": 2276,
     "timeYear": 2245,
     "dailyMinutesDown": {
@@ -322,7 +322,7 @@
     "uptimeYear": "99.90%",
     "time": 1493,
     "timeDay": 1187,
-    "timeWeek": 1381,
+    "timeWeek": 1375,
     "timeMonth": 1383,
     "timeYear": 1493,
     "dailyMinutesDown": {
@@ -352,7 +352,7 @@
     "uptimeYear": "99.65%",
     "time": 1717,
     "timeDay": 1628,
-    "timeWeek": 1900,
+    "timeWeek": 1908,
     "timeMonth": 1784,
     "timeYear": 1717,
     "dailyMinutesDown": {
@@ -378,7 +378,7 @@
     "uptimeYear": "99.94%",
     "time": 1411,
     "timeDay": 1368,
-    "timeWeek": 1337,
+    "timeWeek": 1327,
     "timeMonth": 1369,
     "timeYear": 1411,
     "dailyMinutesDown": {
@@ -401,7 +401,7 @@
     "uptimeYear": "99.65%",
     "time": 1975,
     "timeDay": 1376,
-    "timeWeek": 1570,
+    "timeWeek": 1587,
     "timeMonth": 1622,
     "timeYear": 1975,
     "dailyMinutesDown": {
@@ -435,7 +435,7 @@
     "uptimeYear": "99.89%",
     "time": 2215,
     "timeDay": 2427,
-    "timeWeek": 2188,
+    "timeWeek": 2183,
     "timeMonth": 2060,
     "timeYear": 2215,
     "dailyMinutesDown": {
