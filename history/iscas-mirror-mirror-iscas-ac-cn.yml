@@ -1,7 +1,7 @@
 url: https://mirror.iscas.ac.cn
-status: up
-code: 200
-responseTime: 1394
-lastUpdated: 2022-05-20T23:17:30.386Z
+status: down
+code: 502
+responseTime: 2533
+lastUpdated: 2022-05-21T19:22:38.602Z
 startTime: Thu Dec 09 2021 00:11:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
