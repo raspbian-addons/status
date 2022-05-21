@@ -212,10 +212,10 @@
     "url": "https://mirrors.gigenet.com",
     "icon": "https://favicons.githubusercontent.com/mirrors.gigenet.com",
     "slug": "gige-net-mirror-mirrors-gigenet-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "16.96%",
-    "uptimeWeek": "82.50%",
+    "uptimeDay": "17.36%",
+    "uptimeWeek": "82.49%",
     "uptimeMonth": "95.97%",
     "uptimeYear": "99.25%",
     "time": 1096,
@@ -224,7 +224,7 @@
     "timeMonth": 3460,
     "timeYear": 1096,
     "dailyMinutesDown": {
-      "2022-05-21": 369,
+      "2022-05-21": 370,
       "2022-05-20": 1264,
       "2022-05-19": 129
     }
@@ -502,7 +502,7 @@
     "status": "up",
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.38%",
+    "uptimeWeek": "99.45%",
     "uptimeMonth": "98.58%",
     "uptimeYear": "99.73%",
     "time": 822,
