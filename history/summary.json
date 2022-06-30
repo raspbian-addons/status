@@ -533,19 +533,19 @@
     "url": "https://free.nchc.org.tw",
     "icon": "https://favicons.githubusercontent.com/free.nchc.org.tw",
     "slug": "nchc-mirror-free-nchc-org-tw",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 916,
-    "timeDay": 1384,
-    "timeWeek": 953,
-    "timeMonth": 878,
-    "timeYear": 916,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 917,
+    "timeDay": 1253,
+    "timeWeek": 974,
+    "timeMonth": 886,
+    "timeYear": 917,
     "dailyMinutesDown": {
-      "2022-06-30": 1
+      "2022-06-30": 30
     }
   },
   {
