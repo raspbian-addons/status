@@ -1,7 +1,7 @@
 url: https://apt.raspbian-addons.org
-status: down
-code: 403
-responseTime: 209
-lastUpdated: 2022-06-30T10:58:16.684Z
+status: up
+code: 200
+responseTime: 226
+lastUpdated: 2022-06-30T11:26:22.014Z
 startTime: Wed Dec 08 2021 20:13:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
