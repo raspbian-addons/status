@@ -4,19 +4,19 @@
     "url": "https://raspbian-addons.org",
     "icon": "https://favicons.githubusercontent.com/raspbian-addons.org",
     "slug": "main-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "95.40%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "94.76%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.98%",
-    "time": 198,
-    "timeDay": 143,
-    "timeWeek": 149,
-    "timeMonth": 178,
-    "timeYear": 198,
+    "time": 197,
+    "timeDay": 142,
+    "timeWeek": 148,
+    "timeMonth": 177,
+    "timeYear": 197,
     "dailyMinutesDown": {
-      "2022-09-15": 66
+      "2022-09-15": 76
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://docs.raspbian-addons.org",
     "icon": "https://favicons.githubusercontent.com/docs.raspbian-addons.org",
     "slug": "docs",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "96.37%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.72%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.98%",
     "time": 174,
-    "timeDay": 34,
-    "timeWeek": 121,
+    "timeDay": 76,
+    "timeWeek": 125,
     "timeMonth": 152,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2022-09-15": 53
+      "2022-09-15": 62
     }
   },
   {
@@ -752,7 +752,7 @@
     "uptime": "89.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.24%",
+    "uptimeMonth": "4.22%",
     "uptimeYear": "89.13%",
     "time": 780,
     "timeDay": 580,
@@ -760,7 +760,7 @@
     "timeMonth": 741,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2022-09-15": 1170,
+      "2022-09-15": 1180,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
