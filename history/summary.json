@@ -542,7 +542,7 @@
     "url": "https://mirrors.nju.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.nju.edu.cn.ico",
     "slug": "nju-mirror-mirrors-nju-edu-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "91.59%",
     "uptimeDay": "97.25%",
     "uptimeWeek": "99.61%",
