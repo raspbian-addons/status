@@ -150,10 +150,10 @@
     "url": "https://osdn.dl.osdn.net",
     "icon": "https://icons.duckduckgo.com/ip3/osdn.dl.osdn.net.ico",
     "slug": "osdn-mirror-osdn-dl-osdn-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.44%",
     "time": 433,
@@ -162,6 +162,7 @@
     "timeMonth": 357,
     "timeYear": 433,
     "dailyMinutesDown": {
+      "2022-12-01": 1,
       "2022-11-22": 33,
       "2022-11-18": 18,
       "2022-11-02": 24,
@@ -239,8 +240,7 @@
       "2022-02-02": 16,
       "2022-01-30": 18,
       "2022-01-29": 63,
-      "2022-01-28": 76,
-      "2022-01-22": 19
+      "2022-01-28": 76
     }
   },
   {
@@ -846,9 +846,9 @@
     "slug": "dotsrc-mirror-mirrors-dotsrc-org",
     "status": "up",
     "uptime": "86.67%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "86.67%",
     "time": 807,
     "timeDay": 719,
@@ -856,7 +856,6 @@
     "timeMonth": 729,
     "timeYear": 807,
     "dailyMinutesDown": {
-      "2022-12-01": 10,
       "2022-10-06": 29,
       "2022-10-02": 1308,
       "2022-10-01": 1440,
